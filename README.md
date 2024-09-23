@@ -14,3 +14,7 @@ This project involves creating a Power BI report dashboard as part of a training
 - **Power BI**: Used for data visualization and dashboard creation.
 - **Data Source**: Provided as Excel files, with multiple sheets containing customer, transaction, and merchant data.
 - **Collaboration**: Developed as part of a collaborative training with CIB.
+
+- ## Screenshot
+
+<img width="612" alt="Capture" src="https://github.com/user-attachments/assets/c05b7c8c-3d02-41ff-b5d0-f6c1629c632e">
