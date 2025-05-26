@@ -1,7 +1,7 @@
 # CustomerInsights-PowerBI-Dashboard
 ## Overview
 
-This project involves creating a Power BI report dashboard as part of a training program in collaboration with CIB. The dashboard provides insightful visualizations based on various datasets, focusing on customer transactions, branches, merchants, and city-level analysis.
+This project involves creating a Power BI report dashboard as part of a training program in collaboration with CIB. The dashboard provides insightful visualizations based on the provided datasset, focusing on customer transactions, branches, merchants, and city-level analysis.
 
 ## Features
 
